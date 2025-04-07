@@ -1,2 +1,4 @@
 Full Name: s | Username: s | Password: $2y$10$vTUHhBXse.p7FRVRSUeXuuoUoicUXLWSECniLVAH8nOwxYgcInguC
 Full Name: Jimmy Tran | Username: jltran120 | Password: $2y$10$t.hx109zXyFOo1aAUgpzMuvS34a7evbwQD.luPTu4PfPHQ8R/2tSm
+Full Name: Test | Username: test123 | Password: $2y$10$IoQZjiY5xOB4nwU8utHGbeVqa./OhQTN2JCD01MqX25Sk0FGYXA8K
+Full Name: Test2 | Username: test2 | Password: $2y$10$3sOgntY0MomTQM4mvTs8R.mM/ADK5BNoh2HZzMcfvj2fA7/2DNG0.
