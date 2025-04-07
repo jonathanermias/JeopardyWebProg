@@ -1,0 +1,325 @@
+{
+  "categories": [
+    {
+      "name": "Science",
+      "questions": [
+        {
+          "value": 200,
+          "question": "This force keeps planets in orbit around the Sun",
+          "answer": "gravity"
+        },
+        {
+          "value": 400,
+          "question": "Chemical symbol for gold",
+          "answer": "au"
+        },
+        {
+          "value": 600,
+          "question": "The smallest unit of an element",
+          "answer": "atom"
+        },
+        {
+          "value": 800,
+          "question": "The process by which plants make food using sunlight",
+          "answer": "photosynthesis"
+        },
+        {
+          "value": 1000,
+          "question": "Number of base pairs in the human genome, in billions",
+          "answer": "3"
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "questions": [
+        {
+          "value": 200,
+          "question": "Year the American Declaration of Independence was signed",
+          "answer": "1776"
+        },
+        {
+          "value": 400,
+          "question": "Ancient wonder that stood in Alexandria, Egypt",
+          "answer": "lighthouse"
+        },
+        {
+          "value": 600,
+          "question": "Greek philosopher who was the teacher of Alexander the Great",
+          "answer": "aristotle"
+        },
+        {
+          "value": 800,
+          "question": "Civilization known for building Machu Picchu",
+          "answer": "inca"
+        },
+        {
+          "value": 1000,
+          "question": "Treaty that ended World War I",
+          "answer": "versailles"
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "questions": [
+        {
+          "value": 200,
+          "question": "Largest ocean on Earth",
+          "answer": "pacific"
+        },
+        {
+          "value": 400,
+          "question": "Country shaped like a boot",
+          "answer": "italy"
+        },
+        {
+          "value": 600,
+          "question": "Tallest mountain in the world",
+          "answer": "everest"
+        },
+        {
+          "value": 800,
+          "question": "Capital city of Australia",
+          "answer": "canberra"
+        },
+        {
+          "value": 1000,
+          "question": "World's largest desert",
+          "answer": "sahara"
+        }
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "questions": [
+        {
+          "value": 200,
+          "question": "Character who says 'May the Force be with you'",
+          "answer": "obi-wan"
+        },
+        {
+          "value": 400,
+          "question": "Director of Jurassic Park",
+          "answer": "spielberg"
+        },
+        {
+          "value": 600,
+          "question": "Band with the album 'Abbey Road'",
+          "answer": "beatles"
+        },
+        {
+          "value": 800,
+          "question": "First name of the actress who played Rose in Titanic",
+          "answer": "kate"
+        },
+        {
+          "value": 1000,
+          "question": "TV show featuring the character Walter White",
+          "answer": "breaking bad"
+        }
+      ]
+    },
+    {
+      "name": "Sports",
+      "questions": [
+        {
+          "value": 200,
+          "question": "Number of players on a basketball team",
+          "answer": "5"
+        },
+        {
+          "value": 400,
+          "question": "Sport associated with Wimbledon",
+          "answer": "tennis"
+        },
+        {
+          "value": 600,
+          "question": "Country that hosted the 2016 Summer Olympics",
+          "answer": "brazil"
+        },
+        {
+          "value": 800,
+          "question": "Number of points scored for a touchdown in American football",
+          "answer": "6"
+        },
+        {
+          "value": 1000,
+          "question": "First African country to host the World Cup",
+          "answer": "south africa"
+        }
+      ]
+    },
+    {
+      "name": "Literature",
+      "questions": [
+        { "value": 200, "question": "Famous work by Harper Lee set in the American South", "answer": "to kill a mockingbird" },
+        { "value": 400, "question": "Play by Arthur Miller about the Salem witch trials", "answer": "the crucible" },
+        { "value": 600, "question": "Epic poem attributed to Homer", "answer": "the odyssey" },
+        { "value": 800, "question": "Novel by George Orwell depicting a dystopian society under constant surveillance", "answer": "1984" },
+        { "value": 1000, "question": "Work by James Joyce that chronicles the events of a single day in Dublin", "answer": "ulysses" }
+      ]
+    },
+    {
+      "name": "Technology",
+      "questions": [
+        { "value": 200, "question": "Popular operating system developed by Microsoft", "answer": "windows" },
+        { "value": 400, "question": "Term for a computer program that replicates itself", "answer": "virus" },
+        { "value": 600, "question": "Global network connecting millions of private, public, academic, business, and government networks", "answer": "internet" },
+        { "value": 800, "question": "Programming language known for its snake logo", "answer": "python" },
+        { "value": 1000, "question": "Social media platform originally known for its 140-character messages", "answer": "twitter" }
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "questions": [
+        { "value": 200, "question": "Sum of the interior angles of a triangle in degrees", "answer": "180" },
+        { "value": 400, "question": "Approximation of pi to two decimal places", "answer": "3.14" },
+        { "value": 600, "question": "Name of the branch of mathematics that deals with shapes", "answer": "geometry" },
+        { "value": 800, "question": "Branch of mathematics dealing with continuous change", "answer": "calculus" },
+        { "value": 1000, "question": "The theorem stating that a^2 + b^2 = c^2 in right triangles", "answer": "pythagorean theorem" }
+      ]
+    },
+    {
+      "name": "Mythology",
+      "questions": [
+        { "value": 200, "question": "King of the Greek gods", "answer": "zeus" },
+        { "value": 400, "question": "Greek goddess of wisdom", "answer": "athena" },
+        { "value": 600, "question": "Norse god associated with thunder", "answer": "thor" },
+        { "value": 800, "question": "Egyptian god of the afterlife", "answer": "osiris" },
+        { "value": 1000, "question": "Roman god of war", "answer": "mars" }
+      ]
+    },
+    {
+      "name": "Art",
+      "questions": [
+        { "value": 200, "question": "Renaissance artist known for painting the Mona Lisa", "answer": "da vinci" },
+        { "value": 400, "question": "Dutch painter famous for 'The Starry Night'", "answer": "van gogh" },
+        { "value": 600, "question": "Famous Spanish surrealist known for his melting clocks", "answer": "dali" },
+        { "value": 800, "question": "Art movement associated with Piet Mondrian", "answer": "neoplasticism" },
+        { "value": 1000, "question": "The art technique of using tiny dots to create an image", "answer": "pointillism" }
+      ]
+    },
+    {
+      "name": "Food & Drink",
+      "questions": [
+        { "value": 200, "question": "Fruit known for its bright yellow peel", "answer": "banana" },
+        { "value": 400, "question": "Popular Italian dish made with dough, tomato sauce, and cheese", "answer": "pizza" },
+        { "value": 600, "question": "Fermented beverage made from grapes", "answer": "wine" },
+        { "value": 800, "question": "The world's most expensive spice, derived from a crocus flower", "answer": "saffron" },
+        { "value": 1000, "question": "Japanese dish featuring vinegared rice and seafood", "answer": "sushi" }
+      ]
+    },
+    {
+      "name": "Television",
+      "questions": [
+        { "value": 200, "question": "TV reality show featuring contestants stranded in remote locations", "answer": "survivor" },
+        { "value": 400, "question": "Animated sitcom set in Springfield", "answer": "the simpsons" },
+        { "value": 600, "question": "Cooking competition show on cable TV", "answer": "top chef" },
+        { "value": 800, "question": "British sci-fi series involving a time-traveling doctor", "answer": "doctor who" },
+        { "value": 1000, "question": "TV series following plane crash survivors on a mysterious island", "answer": "lost" }
+      ]
+    },
+    {
+      "name": "Music",
+      "questions": [
+        { "value": 200, "question": "Instrument with black and white keys", "answer": "piano" },
+        { "value": 400, "question": "Music genre that originated in African American communities in New Orleans", "answer": "jazz" },
+        { "value": 600, "question": "Classical composer known for his 9th Symphony", "answer": "beethoven" },
+        { "value": 800, "question": "Music genre characterized by its strong beat and electronic production", "answer": "electronic" },
+        { "value": 1000, "question": "Pop icon known as the Queen of Pop", "answer": "madonna" }
+      ]
+    },
+    {
+      "name": "Politics",
+      "questions": [
+        { "value": 200, "question": "US political party symbolized by the elephant", "answer": "republicans" },
+        { "value": 400, "question": "US political party symbolized by the donkey", "answer": "democrats" },
+        { "value": 600, "question": "System of government where citizens elect representatives", "answer": "democracy" },
+        { "value": 800, "question": "Former British Prime Minister known for his leadership during World War II", "answer": "churchill" },
+        { "value": 1000, "question": "Political ideology advocating for a classless, stateless society", "answer": "communism" }
+      ]
+    },
+    {
+      "name": "Business",
+      "questions": [
+        { "value": 200, "question": "Financial report summarizing a company's revenue and expenses", "answer": "income statement" },
+        { "value": 400, "question": "Business structure in which the liability of owners is limited", "answer": "corporation" },
+        { "value": 600, "question": "Term for a market structure characterized by many sellers and differentiated products", "answer": "monopolistic competition" },
+        { "value": 800, "question": "Financial ratio comparing a company's current assets to its current liabilities", "answer": "current ratio" },
+        { "value": 1000, "question": "Global market for trading currencies", "answer": "forex" }
+      ]
+    },
+    {
+      "name": "Economics",
+      "questions": [
+        { "value": 200, "question": "Economic discipline concerning scarcity and choices", "answer": "economics" },
+        { "value": 400, "question": "A significant decline in economic activity lasting more than a few months", "answer": "recession" },
+        { "value": 600, "question": "Market condition where a single seller dominates", "answer": "monopoly" },
+        { "value": 800, "question": "The rate at which the general level of prices for goods and services rises", "answer": "inflation" },
+        { "value": 1000, "question": "Fundamental economic model explaining the interaction between supply and demand", "answer": "market equilibrium" }
+      ]
+    },
+    {
+      "name": "World Religions",
+      "questions": [
+        { "value": 200, "question": "Religion based on the life and teachings of Jesus", "answer": "christianity" },
+        { "value": 400, "question": "Religion founded by Siddhartha Gautama", "answer": "buddhism" },
+        { "value": 600, "question": "Islam's holy scripture", "answer": "quran" },
+        { "value": 800, "question": "Religion characterized by the Vedas and the concept of karma", "answer": "hinduism" },
+        { "value": 1000, "question": "The religion with sacred texts including the Tanakh", "answer": "judaism" }
+      ]
+    },
+    {
+      "name": "Animals",
+      "questions": [
+        { "value": 200, "question": "Large mammal known for its trunk", "answer": "elephant" },
+        { "value": 400, "question": "Domesticated animal often kept as a pet and known for its purr", "answer": "cat" },
+        { "value": 600, "question": "Fastest land animal", "answer": "cheetah" },
+        { "value": 800, "question": "Largest species of shark", "answer": "whale shark" },
+        { "value": 1000, "question": "Flightless bird native to Africa", "answer": "ostrich" }
+      ]
+    },
+    {
+      "name": "Language",
+      "questions": [
+        { "value": 200, "question": "Language predominantly spoken in Brazil", "answer": "portuguese" },
+        { "value": 400, "question": "Romance language known for its poetic literature", "answer": "french" },
+        { "value": 600, "question": "Official language of China", "answer": "mandarin" },
+        { "value": 800, "question": "Language written in the Cyrillic alphabet by many Eastern European countries", "answer": "russian" },
+        { "value": 1000, "question": "Language in which the epic 'Beowulf' was originally composed", "answer": "old english" }
+      ]
+    },
+    {
+      "name": "Philosophy",
+      "questions": [
+        { "value": 200, "question": "Ancient Greek philosopher known for his Socratic method", "answer": "socrates" },
+        { "value": 400, "question": "French philosopher known for the statement 'I think, therefore I am'", "answer": "descartes" },
+        { "value": 600, "question": "Philosophical belief that reality is fundamentally mental or spiritual", "answer": "idealism" },
+        { "value": 800, "question": "Philosophical system that emphasizes empirical observation and logic", "answer": "empiricism" },
+        { "value": 1000, "question": "The branch of philosophy concerned with the nature of existence and reality", "answer": "metaphysics" }
+      ]
+    },
+    {
+      "name": "Famous People",
+      "questions": [
+        { "value": 200, "question": "Inventor of the practical light bulb", "answer": "edison" },
+        { "value": 400, "question": "Co-founder of Microsoft", "answer": "gates" },
+        { "value": 600, "question": "South African anti-apartheid revolutionary", "answer": "mandela" },
+        { "value": 800, "question": "British naturalist known for the theory of evolution", "answer": "darwin" },
+        { "value": 1000, "question": "American civil rights leader famous for his 'I Have a Dream' speech", "answer": "mlk" }
+      ]
+    },
+    {
+      "name": "Literary Characters",
+      "questions": [
+        { "value": 200, "question": "Fictional detective created by Arthur Conan Doyle", "answer": "sherlock holmes" },
+        { "value": 400, "question": "Fictional hobbit who embarks on an epic journey", "answer": "frodo" },
+        { "value": 600, "question": "Fictional wizard known for his role in defeating dark forces", "answer": "gandalf" },
+        { "value": 800, "question": "Young orphan boy who discovers he is a wizard", "answer": "harry potter" },
+        { "value": 1000, "question": "Fictional girl who explores a whimsical wonderland", "answer": "alice" }
+      ]
+    }
+  ]
+}
+    

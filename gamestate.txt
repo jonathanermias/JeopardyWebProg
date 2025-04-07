@@ -2,3 +2,4 @@ TURN_INDEX=0
 USED=
 TEAM_MODE=0
 TURN_ORDER=0
+CATEGORIES=Philosophy,Language,Technology,Food & Drink,Business
