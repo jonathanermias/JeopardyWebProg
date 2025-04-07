@@ -29,6 +29,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         if (file_put_contents($filename, $data, FILE_APPEND | LOCK_EX)) {
             $message = "Registration Successful!";
+            header("Location: login.php");
+            exit();
         } else {
             $errors[] = "There was an error saving your data.";
         }
