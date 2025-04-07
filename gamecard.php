@@ -1,6 +1,4 @@
 <?php
-<<<<<<< HEAD
-
 $catParam = isset($_GET['cat']) ? (int)$_GET['cat'] : 1;
 $valParam = isset($_GET['val']) ? (int)$_GET['val'] : 200;
 
@@ -22,52 +20,6 @@ foreach ($categoryObj['questions'] as $q) {
     if ($q['value'] == $valParam) {
         $chosenQuestion = $q;
         break;
-=======
-$cat = isset($_GET['cat']) ? (int)$_GET['cat'] : 1;
-$val = isset($_GET['val']) ? (int)$_GET['val'] : 200;
-$cText = "Category $cat";
-$vText = "\$$val";
-$tKey = "$cat-$val";
-$playersData = [];
-$pFile = __DIR__ . '/players.txt';
-$gFile = __DIR__ . '/gamestate.txt';
-if (file_exists($pFile)) {
-    $ls = file($pFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-    foreach ($ls as $ln) {
-        $pr = explode('|', $ln);
-        if (count($pr) === 2) {
-            $playersData[] = ['name' => $pr[0], 'score' => (int)$pr[1]];
-        }
-    }
-}
-$tIndex = 0;
-$uTiles = [];
-$tMode = 0;
-$tOrder = [];
-$gameStateFile = __DIR__ . '/gamestate.txt';
-if (file_exists($gameStateFile)) {
-    $gLines = file($gameStateFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-    foreach ($gLines as $g) {
-        if (strpos($g, 'TURN_INDEX=') === 0) {
-            $tIndex = (int)substr($g, 11);
-        } elseif (strpos($g, 'USED=') === 0) {
-            $s = substr($g, 5);
-            if (!empty($s)) $uTiles = explode(',', $s);
-        } elseif (strpos($g, 'TEAM_MODE=') === 0) {
-            $tMode = (int)substr($g, 10);
-        } elseif (strpos($g, 'TURN_ORDER=') === 0) {
-            $od = substr($g, 11);
-            if (!empty($od)) $tOrder = array_map('intval', explode(',', $od));
-        }
-    }
-}
-// Load selected categories from gamestate.txt
-$selectedCategoryNames = [];
-$gsLines = file(__DIR__ . '/gamestate.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-foreach ($gsLines as $line) {
-    if (strpos($line, 'CATEGORIES=') === 0) {
-        $selectedCategoryNames = explode(',', substr($line, 11));
->>>>>>> c7dff4699ddc93ab5aad3e0c56dbda270a85f792
     }
 }
 
