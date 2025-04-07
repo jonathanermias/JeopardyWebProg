@@ -6,27 +6,27 @@
         {
           "value": 200,
           "question": "This force keeps planets in orbit around the Sun",
-          "answer": "gravity"
+          "answer": "What is gravity?"
         },
         {
           "value": 400,
           "question": "Chemical symbol for gold",
-          "answer": "au"
+          "answer": "What is Au?"
         },
         {
           "value": 600,
           "question": "The smallest unit of an element",
-          "answer": "atom"
+          "answer": "What is an atom?"
         },
         {
           "value": 800,
           "question": "The process by which plants make food using sunlight",
-          "answer": "photosynthesis"
+          "answer": "What is photosynthesis?"
         },
         {
           "value": 1000,
           "question": "Number of base pairs in the human genome, in billions",
-          "answer": "3"
+          "answer": "What is 3?"
         }
       ]
     },
@@ -36,27 +36,27 @@
         {
           "value": 200,
           "question": "Year the American Declaration of Independence was signed",
-          "answer": "1776"
+          "answer": "What is 1776?"
         },
         {
           "value": 400,
           "question": "Ancient wonder that stood in Alexandria, Egypt",
-          "answer": "lighthouse"
+          "answer": "What is the Lighthouse of Alexandria?"
         },
         {
           "value": 600,
           "question": "Greek philosopher who was the teacher of Alexander the Great",
-          "answer": "aristotle"
+          "answer": "Who is Aristotle?"
         },
         {
           "value": 800,
           "question": "Civilization known for building Machu Picchu",
-          "answer": "inca"
+          "answer": "Who are the Inca?"
         },
         {
           "value": 1000,
           "question": "Treaty that ended World War I",
-          "answer": "versailles"
+          "answer": "What is the Treaty of Versailles?"
         }
       ]
     },
@@ -66,27 +66,27 @@
         {
           "value": 200,
           "question": "Largest ocean on Earth",
-          "answer": "pacific"
+          "answer": "What is the Pacific?"
         },
         {
           "value": 400,
           "question": "Country shaped like a boot",
-          "answer": "italy"
+          "answer": "What is Italy?"
         },
         {
           "value": 600,
           "question": "Tallest mountain in the world",
-          "answer": "everest"
+          "answer": "What is Mount Everest?"
         },
         {
           "value": 800,
           "question": "Capital city of Australia",
-          "answer": "canberra"
+          "answer": "What is Canberra?"
         },
         {
           "value": 1000,
           "question": "World's largest desert",
-          "answer": "sahara"
+          "answer": "What is the Sahara?"
         }
       ]
     },
@@ -96,27 +96,27 @@
         {
           "value": 200,
           "question": "Character who says 'May the Force be with you'",
-          "answer": "obi-wan"
+          "answer": "Who is Obi-Wan?"
         },
         {
           "value": 400,
           "question": "Director of Jurassic Park",
-          "answer": "spielberg"
+          "answer": "Who is Steven Spielberg?"
         },
         {
           "value": 600,
           "question": "Band with the album 'Abbey Road'",
-          "answer": "beatles"
+          "answer": "Who are The Beatles?"
         },
         {
           "value": 800,
           "question": "First name of the actress who played Rose in Titanic",
-          "answer": "kate"
+          "answer": "Who is Kate Winslet?"
         },
         {
           "value": 1000,
           "question": "TV show featuring the character Walter White",
-          "answer": "breaking bad"
+          "answer": "What is Breaking Bad?"
         }
       ]
     },
@@ -126,200 +126,539 @@
         {
           "value": 200,
           "question": "Number of players on a basketball team",
-          "answer": "5"
+          "answer": "What is 5?"
         },
         {
           "value": 400,
           "question": "Sport associated with Wimbledon",
-          "answer": "tennis"
+          "answer": "What is tennis?"
         },
         {
           "value": 600,
           "question": "Country that hosted the 2016 Summer Olympics",
-          "answer": "brazil"
+          "answer": "What is Brazil?"
         },
         {
           "value": 800,
           "question": "Number of points scored for a touchdown in American football",
-          "answer": "6"
+          "answer": "What is 6?"
         },
         {
           "value": 1000,
           "question": "First African country to host the World Cup",
-          "answer": "south africa"
+          "answer": "What is South Africa?"
         }
       ]
     },
     {
       "name": "Literature",
       "questions": [
-        { "value": 200, "question": "Famous work by Harper Lee set in the American South", "answer": "to kill a mockingbird" },
-        { "value": 400, "question": "Play by Arthur Miller about the Salem witch trials", "answer": "the crucible" },
-        { "value": 600, "question": "Epic poem attributed to Homer", "answer": "the odyssey" },
-        { "value": 800, "question": "Novel by George Orwell depicting a dystopian society under constant surveillance", "answer": "1984" },
-        { "value": 1000, "question": "Work by James Joyce that chronicles the events of a single day in Dublin", "answer": "ulysses" }
+        {
+          "value": 200,
+          "question": "Famous work by Harper Lee set in the American South",
+          "answer": "What is To Kill a Mockingbird?"
+        },
+        {
+          "value": 400,
+          "question": "Play by Arthur Miller about the Salem witch trials",
+          "answer": "What is The Crucible?"
+        },
+        {
+          "value": 600,
+          "question": "Epic poem attributed to Homer",
+          "answer": "What is The Odyssey?"
+        },
+        {
+          "value": 800,
+          "question": "Novel by George Orwell depicting a dystopian society under constant surveillance",
+          "answer": "What is 1984?"
+        },
+        {
+          "value": 1000,
+          "question": "Work by James Joyce that chronicles the events of a single day in Dublin",
+          "answer": "What is Ulysses?"
+        }
       ]
     },
     {
       "name": "Technology",
       "questions": [
-        { "value": 200, "question": "Popular operating system developed by Microsoft", "answer": "windows" },
-        { "value": 400, "question": "Term for a computer program that replicates itself", "answer": "virus" },
-        { "value": 600, "question": "Global network connecting millions of private, public, academic, business, and government networks", "answer": "internet" },
-        { "value": 800, "question": "Programming language known for its snake logo", "answer": "python" },
-        { "value": 1000, "question": "Social media platform originally known for its 140-character messages", "answer": "twitter" }
+        {
+          "value": 200,
+          "question": "Popular operating system developed by Microsoft",
+          "answer": "What is Windows?"
+        },
+        {
+          "value": 400,
+          "question": "Term for a computer program that replicates itself",
+          "answer": "What is a virus?"
+        },
+        {
+          "value": 600,
+          "question": "Global network connecting millions of private, public, academic, business, and government networks",
+          "answer": "What is the Internet?"
+        },
+        {
+          "value": 800,
+          "question": "Programming language known for its snake logo",
+          "answer": "What is Python?"
+        },
+        {
+          "value": 1000,
+          "question": "Social media platform originally known for its 140-character messages",
+          "answer": "What is Twitter?"
+        }
       ]
     },
     {
       "name": "Mathematics",
       "questions": [
-        { "value": 200, "question": "Sum of the interior angles of a triangle in degrees", "answer": "180" },
-        { "value": 400, "question": "Approximation of pi to two decimal places", "answer": "3.14" },
-        { "value": 600, "question": "Name of the branch of mathematics that deals with shapes", "answer": "geometry" },
-        { "value": 800, "question": "Branch of mathematics dealing with continuous change", "answer": "calculus" },
-        { "value": 1000, "question": "The theorem stating that a^2 + b^2 = c^2 in right triangles", "answer": "pythagorean theorem" }
+        {
+          "value": 200,
+          "question": "Sum of the interior angles of a triangle in degrees",
+          "answer": "What is 180?"
+        },
+        {
+          "value": 400,
+          "question": "Approximation of pi to two decimal places",
+          "answer": "What is 3.14?"
+        },
+        {
+          "value": 600,
+          "question": "Name of the branch of mathematics that deals with shapes",
+          "answer": "What is geometry?"
+        },
+        {
+          "value": 800,
+          "question": "Branch of mathematics dealing with continuous change",
+          "answer": "What is calculus?"
+        },
+        {
+          "value": 1000,
+          "question": "The theorem stating that a^2 + b^2 = c^2 in right triangles",
+          "answer": "What is the Pythagorean theorem?"
+        }
       ]
     },
     {
       "name": "Mythology",
       "questions": [
-        { "value": 200, "question": "King of the Greek gods", "answer": "zeus" },
-        { "value": 400, "question": "Greek goddess of wisdom", "answer": "athena" },
-        { "value": 600, "question": "Norse god associated with thunder", "answer": "thor" },
-        { "value": 800, "question": "Egyptian god of the afterlife", "answer": "osiris" },
-        { "value": 1000, "question": "Roman god of war", "answer": "mars" }
+        {
+          "value": 200,
+          "question": "King of the Greek gods",
+          "answer": "Who is Zeus?"
+        },
+        {
+          "value": 400,
+          "question": "Greek goddess of wisdom",
+          "answer": "Who is Athena?"
+        },
+        {
+          "value": 600,
+          "question": "Norse god associated with thunder",
+          "answer": "Who is Thor?"
+        },
+        {
+          "value": 800,
+          "question": "Egyptian god of the afterlife",
+          "answer": "Who is Osiris?"
+        },
+        {
+          "value": 1000,
+          "question": "Roman god of war",
+          "answer": "Who is Mars?"
+        }
       ]
     },
     {
       "name": "Art",
       "questions": [
-        { "value": 200, "question": "Renaissance artist known for painting the Mona Lisa", "answer": "da vinci" },
-        { "value": 400, "question": "Dutch painter famous for 'The Starry Night'", "answer": "van gogh" },
-        { "value": 600, "question": "Famous Spanish surrealist known for his melting clocks", "answer": "dali" },
-        { "value": 800, "question": "Art movement associated with Piet Mondrian", "answer": "neoplasticism" },
-        { "value": 1000, "question": "The art technique of using tiny dots to create an image", "answer": "pointillism" }
+        {
+          "value": 200,
+          "question": "Renaissance artist known for painting the Mona Lisa",
+          "answer": "Who is Leonardo da Vinci?"
+        },
+        {
+          "value": 400,
+          "question": "Dutch painter famous for 'The Starry Night'",
+          "answer": "Who is Vincent van Gogh?"
+        },
+        {
+          "value": 600,
+          "question": "Famous Spanish surrealist known for his melting clocks",
+          "answer": "Who is Salvador Dalí?"
+        },
+        {
+          "value": 800,
+          "question": "Art movement associated with Piet Mondrian",
+          "answer": "What is Neoplasticism?"
+        },
+        {
+          "value": 1000,
+          "question": "The art technique of using tiny dots to create an image",
+          "answer": "What is pointillism?"
+        }
       ]
     },
     {
       "name": "Food & Drink",
       "questions": [
-        { "value": 200, "question": "Fruit known for its bright yellow peel", "answer": "banana" },
-        { "value": 400, "question": "Popular Italian dish made with dough, tomato sauce, and cheese", "answer": "pizza" },
-        { "value": 600, "question": "Fermented beverage made from grapes", "answer": "wine" },
-        { "value": 800, "question": "The world's most expensive spice, derived from a crocus flower", "answer": "saffron" },
-        { "value": 1000, "question": "Japanese dish featuring vinegared rice and seafood", "answer": "sushi" }
+        {
+          "value": 200,
+          "question": "Fruit known for its bright yellow peel",
+          "answer": "What is a banana?"
+        },
+        {
+          "value": 400,
+          "question": "Popular Italian dish made with dough, tomato sauce, and cheese",
+          "answer": "What is pizza?"
+        },
+        {
+          "value": 600,
+          "question": "Fermented beverage made from grapes",
+          "answer": "What is wine?"
+        },
+        {
+          "value": 800,
+          "question": "The world's most expensive spice, derived from a crocus flower",
+          "answer": "What is saffron?"
+        },
+        {
+          "value": 1000,
+          "question": "Japanese dish featuring vinegared rice and seafood",
+          "answer": "What is sushi?"
+        }
       ]
     },
     {
       "name": "Television",
       "questions": [
-        { "value": 200, "question": "TV reality show featuring contestants stranded in remote locations", "answer": "survivor" },
-        { "value": 400, "question": "Animated sitcom set in Springfield", "answer": "the simpsons" },
-        { "value": 600, "question": "Cooking competition show on cable TV", "answer": "top chef" },
-        { "value": 800, "question": "British sci-fi series involving a time-traveling doctor", "answer": "doctor who" },
-        { "value": 1000, "question": "TV series following plane crash survivors on a mysterious island", "answer": "lost" }
+        {
+          "value": 200,
+          "question": "TV reality show featuring contestants stranded in remote locations",
+          "answer": "What is Survivor?"
+        },
+        {
+          "value": 400,
+          "question": "Animated sitcom set in Springfield",
+          "answer": "What is The Simpsons?"
+        },
+        {
+          "value": 600,
+          "question": "Cooking competition show on cable TV",
+          "answer": "What is Top Chef?"
+        },
+        {
+          "value": 800,
+          "question": "British sci-fi series involving a time-traveling doctor",
+          "answer": "What is Doctor Who?"
+        },
+        {
+          "value": 1000,
+          "question": "TV series following plane crash survivors on a mysterious island",
+          "answer": "What is Lost?"
+        }
       ]
     },
     {
       "name": "Music",
       "questions": [
-        { "value": 200, "question": "Instrument with black and white keys", "answer": "piano" },
-        { "value": 400, "question": "Music genre that originated in African American communities in New Orleans", "answer": "jazz" },
-        { "value": 600, "question": "Classical composer known for his 9th Symphony", "answer": "beethoven" },
-        { "value": 800, "question": "Music genre characterized by its strong beat and electronic production", "answer": "electronic" },
-        { "value": 1000, "question": "Pop icon known as the Queen of Pop", "answer": "madonna" }
+        {
+          "value": 200,
+          "question": "Instrument with black and white keys",
+          "answer": "What is a piano?"
+        },
+        {
+          "value": 400,
+          "question": "Music genre that originated in African American communities in New Orleans",
+          "answer": "What is jazz?"
+        },
+        {
+          "value": 600,
+          "question": "Classical composer known for his 9th Symphony",
+          "answer": "Who is Beethoven?"
+        },
+        {
+          "value": 800,
+          "question": "Music genre characterized by its strong beat and electronic production",
+          "answer": "What is electronic music?"
+        },
+        {
+          "value": 1000,
+          "question": "Pop icon known as the Queen of Pop",
+          "answer": "Who is Madonna?"
+        }
       ]
     },
     {
       "name": "Politics",
       "questions": [
-        { "value": 200, "question": "US political party symbolized by the elephant", "answer": "republicans" },
-        { "value": 400, "question": "US political party symbolized by the donkey", "answer": "democrats" },
-        { "value": 600, "question": "System of government where citizens elect representatives", "answer": "democracy" },
-        { "value": 800, "question": "Former British Prime Minister known for his leadership during World War II", "answer": "churchill" },
-        { "value": 1000, "question": "Political ideology advocating for a classless, stateless society", "answer": "communism" }
+        {
+          "value": 200,
+          "question": "US political party symbolized by the elephant",
+          "answer": "Who are the Republicans?"
+        },
+        {
+          "value": 400,
+          "question": "US political party symbolized by the donkey",
+          "answer": "Who are the Democrats?"
+        },
+        {
+          "value": 600,
+          "question": "System of government where citizens elect representatives",
+          "answer": "What is a democracy?"
+        },
+        {
+          "value": 800,
+          "question": "Former British Prime Minister known for his leadership during World War II",
+          "answer": "Who is Winston Churchill?"
+        },
+        {
+          "value": 1000,
+          "question": "Political ideology advocating for a classless, stateless society",
+          "answer": "What is communism?"
+        }
       ]
     },
     {
       "name": "Business",
       "questions": [
-        { "value": 200, "question": "Financial report summarizing a company's revenue and expenses", "answer": "income statement" },
-        { "value": 400, "question": "Business structure in which the liability of owners is limited", "answer": "corporation" },
-        { "value": 600, "question": "Term for a market structure characterized by many sellers and differentiated products", "answer": "monopolistic competition" },
-        { "value": 800, "question": "Financial ratio comparing a company's current assets to its current liabilities", "answer": "current ratio" },
-        { "value": 1000, "question": "Global market for trading currencies", "answer": "forex" }
+        {
+          "value": 200,
+          "question": "Financial report summarizing a company's revenue and expenses",
+          "answer": "What is an income statement?"
+        },
+        {
+          "value": 400,
+          "question": "Business structure in which the liability of owners is limited",
+          "answer": "What is a corporation?"
+        },
+        {
+          "value": 600,
+          "question": "Term for a market structure characterized by many sellers and differentiated products",
+          "answer": "What is monopolistic competition?"
+        },
+        {
+          "value": 800,
+          "question": "Financial ratio comparing a company's current assets to its current liabilities",
+          "answer": "What is the current ratio?"
+        },
+        {
+          "value": 1000,
+          "question": "Global market for trading currencies",
+          "answer": "What is Forex?"
+        }
       ]
     },
     {
       "name": "Economics",
       "questions": [
-        { "value": 200, "question": "Economic discipline concerning scarcity and choices", "answer": "economics" },
-        { "value": 400, "question": "A significant decline in economic activity lasting more than a few months", "answer": "recession" },
-        { "value": 600, "question": "Market condition where a single seller dominates", "answer": "monopoly" },
-        { "value": 800, "question": "The rate at which the general level of prices for goods and services rises", "answer": "inflation" },
-        { "value": 1000, "question": "Fundamental economic model explaining the interaction between supply and demand", "answer": "market equilibrium" }
+        {
+          "value": 200,
+          "question": "Economic discipline concerning scarcity and choices",
+          "answer": "What is economics?"
+        },
+        {
+          "value": 400,
+          "question": "A significant decline in economic activity lasting more than a few months",
+          "answer": "What is a recession?"
+        },
+        {
+          "value": 600,
+          "question": "Market condition where a single seller dominates",
+          "answer": "What is a monopoly?"
+        },
+        {
+          "value": 800,
+          "question": "The rate at which the general level of prices for goods and services rises",
+          "answer": "What is inflation?"
+        },
+        {
+          "value": 1000,
+          "question": "Fundamental economic model explaining the interaction between supply and demand",
+          "answer": "What is market equilibrium?"
+        }
       ]
     },
     {
       "name": "World Religions",
       "questions": [
-        { "value": 200, "question": "Religion based on the life and teachings of Jesus", "answer": "christianity" },
-        { "value": 400, "question": "Religion founded by Siddhartha Gautama", "answer": "buddhism" },
-        { "value": 600, "question": "Islam's holy scripture", "answer": "quran" },
-        { "value": 800, "question": "Religion characterized by the Vedas and the concept of karma", "answer": "hinduism" },
-        { "value": 1000, "question": "The religion with sacred texts including the Tanakh", "answer": "judaism" }
+        {
+          "value": 200,
+          "question": "Religion based on the life and teachings of Jesus",
+          "answer": "What is Christianity?"
+        },
+        {
+          "value": 400,
+          "question": "Religion founded by Siddhartha Gautama",
+          "answer": "What is Buddhism?"
+        },
+        {
+          "value": 600,
+          "question": "Islam's holy scripture",
+          "answer": "What is the Quran?"
+        },
+        {
+          "value": 800,
+          "question": "Religion characterized by the Vedas and the concept of karma",
+          "answer": "What is Hinduism?"
+        },
+        {
+          "value": 1000,
+          "question": "The religion with sacred texts including the Tanakh",
+          "answer": "What is Judaism?"
+        }
       ]
     },
     {
       "name": "Animals",
       "questions": [
-        { "value": 200, "question": "Large mammal known for its trunk", "answer": "elephant" },
-        { "value": 400, "question": "Domesticated animal often kept as a pet and known for its purr", "answer": "cat" },
-        { "value": 600, "question": "Fastest land animal", "answer": "cheetah" },
-        { "value": 800, "question": "Largest species of shark", "answer": "whale shark" },
-        { "value": 1000, "question": "Flightless bird native to Africa", "answer": "ostrich" }
+        {
+          "value": 200,
+          "question": "Large mammal known for its trunk",
+          "answer": "What is an elephant?"
+        },
+        {
+          "value": 400,
+          "question": "Domesticated animal often kept as a pet and known for its purr",
+          "answer": "What is a cat?"
+        },
+        {
+          "value": 600,
+          "question": "Fastest land animal",
+          "answer": "What is a cheetah?"
+        },
+        {
+          "value": 800,
+          "question": "Largest species of shark",
+          "answer": "What is a whale shark?"
+        },
+        {
+          "value": 1000,
+          "question": "Flightless bird native to Africa",
+          "answer": "What is an ostrich?"
+        }
       ]
     },
     {
       "name": "Language",
       "questions": [
-        { "value": 200, "question": "Language predominantly spoken in Brazil", "answer": "portuguese" },
-        { "value": 400, "question": "Romance language known for its poetic literature", "answer": "french" },
-        { "value": 600, "question": "Official language of China", "answer": "mandarin" },
-        { "value": 800, "question": "Language written in the Cyrillic alphabet by many Eastern European countries", "answer": "russian" },
-        { "value": 1000, "question": "Language in which the epic 'Beowulf' was originally composed", "answer": "old english" }
+        {
+          "value": 200,
+          "question": "Language predominantly spoken in Brazil",
+          "answer": "What is Portuguese?"
+        },
+        {
+          "value": 400,
+          "question": "Romance language known for its poetic literature",
+          "answer": "What is French?"
+        },
+        {
+          "value": 600,
+          "question": "Official language of China",
+          "answer": "What is Mandarin?"
+        },
+        {
+          "value": 800,
+          "question": "Language written in the Cyrillic alphabet by many Eastern European countries",
+          "answer": "What is Russian?"
+        },
+        {
+          "value": 1000,
+          "question": "Language in which the epic 'Beowulf' was originally composed",
+          "answer": "What is Old English?"
+        }
       ]
     },
     {
       "name": "Philosophy",
       "questions": [
-        { "value": 200, "question": "Ancient Greek philosopher known for his Socratic method", "answer": "socrates" },
-        { "value": 400, "question": "French philosopher known for the statement 'I think, therefore I am'", "answer": "descartes" },
-        { "value": 600, "question": "Philosophical belief that reality is fundamentally mental or spiritual", "answer": "idealism" },
-        { "value": 800, "question": "Philosophical system that emphasizes empirical observation and logic", "answer": "empiricism" },
-        { "value": 1000, "question": "The branch of philosophy concerned with the nature of existence and reality", "answer": "metaphysics" }
+        {
+          "value": 200,
+          "question": "Ancient Greek philosopher known for his Socratic method",
+          "answer": "Who is Socrates?"
+        },
+        {
+          "value": 400,
+          "question": "French philosopher known for the statement 'I think, therefore I am'",
+          "answer": "Who is Descartes?"
+        },
+        {
+          "value": 600,
+          "question": "Philosophical belief that reality is fundamentally mental or spiritual",
+          "answer": "What is idealism?"
+        },
+        {
+          "value": 800,
+          "question": "Philosophical system that emphasizes empirical observation and logic",
+          "answer": "What is empiricism?"
+        },
+        {
+          "value": 1000,
+          "question": "The branch of philosophy concerned with the nature of existence and reality",
+          "answer": "What is metaphysics?"
+        }
       ]
     },
     {
       "name": "Famous People",
       "questions": [
-        { "value": 200, "question": "Inventor of the practical light bulb", "answer": "edison" },
-        { "value": 400, "question": "Co-founder of Microsoft", "answer": "gates" },
-        { "value": 600, "question": "South African anti-apartheid revolutionary", "answer": "mandela" },
-        { "value": 800, "question": "British naturalist known for the theory of evolution", "answer": "darwin" },
-        { "value": 1000, "question": "American civil rights leader famous for his 'I Have a Dream' speech", "answer": "mlk" }
+        {
+          "value": 200,
+          "question": "Inventor of the practical light bulb",
+          "answer": "Who is Edison?"
+        },
+        {
+          "value": 400,
+          "question": "Co-founder of Microsoft",
+          "answer": "Who is Gates?"
+        },
+        {
+          "value": 600,
+          "question": "South African anti-apartheid revolutionary",
+          "answer": "Who is Mandela?"
+        },
+        {
+          "value": 800,
+          "question": "British naturalist known for the theory of evolution",
+          "answer": "Who is Darwin?"
+        },
+        {
+          "value": 1000,
+          "question": "American civil rights leader famous for his 'I Have a Dream' speech",
+          "answer": "Who is MLK?"
+        }
       ]
     },
     {
       "name": "Literary Characters",
       "questions": [
-        { "value": 200, "question": "Fictional detective created by Arthur Conan Doyle", "answer": "sherlock holmes" },
-        { "value": 400, "question": "Fictional hobbit who embarks on an epic journey", "answer": "frodo" },
-        { "value": 600, "question": "Fictional wizard known for his role in defeating dark forces", "answer": "gandalf" },
-        { "value": 800, "question": "Young orphan boy who discovers he is a wizard", "answer": "harry potter" },
-        { "value": 1000, "question": "Fictional girl who explores a whimsical wonderland", "answer": "alice" }
+        {
+          "value": 200,
+          "question": "Fictional detective created by Arthur Conan Doyle",
+          "answer": "Who is Sherlock Holmes?"
+        },
+        {
+          "value": 400,
+          "question": "Fictional hobbit who embarks on an epic journey",
+          "answer": "Who is Frodo?"
+        },
+        {
+          "value": 600,
+          "question": "Fictional wizard known for his role in defeating dark forces",
+          "answer": "Who is Gandalf?"
+        },
+        {
+          "value": 800,
+          "question": "Young orphan boy who discovers he is a wizard",
+          "answer": "Who is Harry Potter?"
+        },
+        {
+          "value": 1000,
+          "question": "Fictional girl who explores a whimsical wonderland",
+          "answer": "Who is Alice?"
+        }
       ]
     }
   ]
 }
-    
