@@ -6,6 +6,7 @@ $vText = "\$$val";
 $tKey = "$cat-$val";
 $playersData = [];
 $pFile = __DIR__ . '/players.txt';
+$gFile = __DIR__ . '/gamestate.txt';
 if (file_exists($pFile)) {
     $ls = file($pFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
     foreach ($ls as $ln) {
