@@ -236,7 +236,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum p
 </p>
 <?php if(!$fClass && empty($revAns)): ?>
 <div class="buzz-form">
-    <p><strong>Button to buzz in and type answer</strong></p>
     <form method="post">
         <input type="hidden" name="action" value="answer">
         <input type="text" class="answer-input" name="playerAnswer" placeholder="Type 'answer' to be correct" required />
