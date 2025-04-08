@@ -5,6 +5,18 @@ $allCategories = $allData['categories'];
 
 $chosenFile = __DIR__ . '/chosen_cats.txt';
 
+
+if (isset($_GET['reset_chosen']) && $_GET['reset_chosen'] === '1') {
+    if (file_exists($chosenFile)) {
+        unlink($chosenFile);
+    }
+    $allIndices = range(0, count($allCategories) - 1);
+    shuffle($allIndices);
+    $fiveChosen = array_slice($allIndices, 0, 5);
+    file_put_contents($chosenFile, implode(',', $fiveChosen));
+}
+
+
 if (!file_exists($chosenFile)) {
     $allIndices = range(0, count($allCategories) - 1);
     shuffle($allIndices);
@@ -71,6 +83,9 @@ if (empty($turnOrder)) {
 }
 
 if (isset($_GET['end']) && $_GET['end'] === '1') {
+    if (file_exists($chosenFile)) {
+        unlink($chosenFile);
+    }
     endGameAndAppendLeaderboard($players, $teamMode, $usedTiles);
     exit;
 }

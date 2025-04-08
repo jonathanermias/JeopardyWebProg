@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     preg_match('/Password: (.*)/', $user, $matches);
                     if (isset($matches[1]) && password_verify($password, $matches[1])) {
                         $_SESSION['username'] = $username;
-                        header("Location: gameselect.html");
+                        header("Location: gameselect.php");
                         exit();
                     }
                 }
